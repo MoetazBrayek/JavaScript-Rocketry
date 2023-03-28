@@ -125,11 +125,9 @@ Set
 const mySet = new Set([1, 2, 3, 4, 4]);
 console.log(mySet); // Output: Set { 1, 2, 3, 4 }
 ```
-11. Proxies and Reflect API 🛡️
-Use Proxies to add custom behaviors to objects and Reflect API to perform operations on them:
 
 ### Proxy
-11. Proxies and Reflect API 🛡️
+Proxies and Reflect API 🛡️
 Use Proxies to add custom behaviors to objects and Reflect API to perform operations on them:
 
 Proxy
